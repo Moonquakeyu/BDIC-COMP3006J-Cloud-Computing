@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "2ad0eb6b6b5cc0a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "207234270170a877",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d06a30cacee0ff63",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11ec638d2c329c9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e78f066d882add3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b5e9e1a9773844b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "5f1146c8c7b09909",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2fc042ca81615a55",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d04f119f15f838e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "eebcb24b61128f75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78dc3b4260f2f5fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lecture 10- 云资源管理与调度 (Cloud Resource Management and Scheduling).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Lecture 10- 云资源管理与调度 (Cloud Resource Management and Scheduling) 的反向链接列表"
+            }
+          },
+          {
+            "id": "d1870a2d17f5b129",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lecture 10- 云资源管理与调度 (Cloud Resource Management and Scheduling).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Lecture 10- 云资源管理与调度 (Cloud Resource Management and Scheduling) 的出链列表"
+            }
+          },
+          {
+            "id": "502ad043e4e15baf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "2d56390c26eb676b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "QUIZ/Brog.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Brog 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "8b5e9e1a9773844b",
+  "lastOpenFiles": [
+    "协作式AI文书平台产品设计.md",
+    "AI留学文书智能生成平台详细商业计划.md",
+    "协作式AI文书平台产品设计.pdf",
+    "PAPER/Sample-COMP3006J-CloudComputing-Questions+Solutions.pdf",
+    "QUIZ/Brog.md",
+    "QUIZ/BROGQUIZ.jpg",
+    "QUIZ/选择题攻略.md",
+    "QUIZ/RAYQUIZ.jpg",
+    "QUIZ/RAYQUIZ.md",
+    "QUIZ/GFSQUIZ.jpg",
+    "QUIZ/Brog Quiz.md",
+    "QUIZ/RAY.md",
+    "QUIZ/GFSQuiz.md",
+    "QUIZ/GFS.md",
+    "The Google File System (GFS).md",
+    "Lecture 7- 数据密集型应用与云存储 (Data-Intensive Applications & Cloud Storage).md",
+    "Background Reading 3- Borg 集群管理系统 (Large-scale cluster management at Google with Borg.md",
+    "Ray分布式框架详细学习笔记.md",
+    "PAPER/简答题.md",
+    "Lecture 6- Data-Intensive Applications & MapReduce.md",
+    "Lecture 9- 无服务器计算 (Serverless Computing).md",
+    "Lecture 10- 云资源管理与调度 (Cloud Resource Management and Scheduling).md",
+    "Lecture 2- Principles of Parallel and Distributed Systems.md",
+    "云计算 Dr NoHuman·MAMASIL.md",
+    "Lecture 8- Ray 分布式框架 (Ray Distributed Framework).md",
+    "Lecture 5- Organizing Pods and Pod Replications.md",
+    "Lecture 4- Virtualization (Part II).md",
+    "Lecture 3- Virtualization (Part I).md",
+    "PAPER/Sample-COMP3006J-CloudComputing-Questions.pdf",
+    "Lecture 11- Borg 集群管理系统 (Cluster Management with Borg).md",
+    "Lecture 1- Introduction.md",
+    "PAPER/模拟.md"
+  ]
+}
